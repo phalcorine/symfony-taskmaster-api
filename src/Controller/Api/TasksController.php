@@ -29,7 +29,7 @@ class TasksController extends AbstractController
     }
 
     #[Route('', name: 'index', methods: ['GET'])]
-    #[Route('list', name: 'list', methods: ['GET'])]
+    #[Route('/list', name: 'list', methods: ['GET'])]
     public function list()
     {
         $tasks = $this->taskRepository->findBy([
