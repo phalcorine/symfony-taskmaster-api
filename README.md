@@ -19,11 +19,13 @@ Here are a list of features / user stories I intend to implement.
 
 ### TODO:
 - [URGENT] Prepare API Documentation!
+- A user should be able to set a due-date for a task.
+- Research possibilities of implementing Push Notifications (SSEs, WebSockets, etc).
 - Still thinking of something...
 
 ### IDEAS:
-- A task can have checklists
-- A project feature to organize related tasks
+- A task can have checklists?
+- A project feature to organize related tasks?
 - A team feature where a user can:
 	- create a team.
 	- invite other users to the team
