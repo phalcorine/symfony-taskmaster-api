@@ -18,6 +18,7 @@ Here are a list of features / user stories I intend to implement.
 - A user should be able to delete a task.
 
 ### TODO:
+- [URGENT] Prepare API Documentation!
 - Still thinking of something...
 
 ### IDEAS:
